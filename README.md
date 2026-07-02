@@ -1,5 +1,6 @@
 ````markdown
 # RIMA: Riemannian Intrinsic Multimodal Alignment for Clinico-Genomic Survival Prediction
+<img width="15003" height="7773" alt="fig2" src="https://github.com/user-attachments/assets/2ab4ac93-486b-41a6-987a-7500d6f6eb96" />
 
 This repository provides the official implementation of **RIMA**, a geometry-aware multimodal survival prediction framework for integrating whole slide images (WSIs) and genomic profiles.
 
