@@ -1,4 +1,4 @@
-````markdown
+
 # RIMA: Riemannian Intrinsic Multimodal Alignment for Clinico-Genomic Survival Prediction
 <img width="15003" height="7773" alt="fig2" src="https://github.com/user-attachments/assets/2ab4ac93-486b-41a6-987a-7500d6f6eb96" />
 
@@ -429,4 +429,4 @@ This repository uses WSI preprocessing and feature extraction utilities inspired
 This project is released for academic research purposes only. Please contact the authors for commercial use.
 
 ```
-```
+
